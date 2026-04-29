@@ -84,7 +84,7 @@ export default function App() {
             carrito dinámico, dashboard y búsqueda de productos.
           </p>
           <a
-            href="https://stackblitz.com/edit/vitejs-vite-kt3xfxy1?ctl=1&embed=1&view=preview"
+            href="https://papeleria-juanis.vercel.app/"
             target="_blank"
             rel="noreferrer"
           >
@@ -99,7 +99,7 @@ export default function App() {
             con estados dinámicos y diseño tipo SaaS.
           </p>
           <a
-            href="https://stackblitz.com/edit/vitejs-vite-giw8qrl5?ctl=1&embed=1&view=preview"
+            href="https://intranet-sage.vercel.app/"
             target="_blank"
             rel="noreferrer"
           >
@@ -114,7 +114,7 @@ export default function App() {
             (Activo, En proceso, Cerrado, Cancelado).
           </p>
           <a
-            href="https://stackblitz.com/edit/vitejs-vite-4mquyozs?ctl=1&embed=1&view=preview"
+            href="https://crud-two-inky.vercel.app/"
             target="_blank"
             rel="noreferrer"
           >
